@@ -1,0 +1,15 @@
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\Services\bin\Debug\net6.0\Services.deps.json
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\Services\bin\Debug\net6.0\Services.dll
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\Services\bin\Debug\net6.0\Services.pdb
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\Services\bin\Debug\net6.0\EvalCore.dll
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\Services\bin\Debug\net6.0\EvalCore.pdb
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\Services\obj\Debug\net6.0\Services.dll
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\Services\obj\Debug\net6.0\refint\Services.dll
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\Services\obj\Debug\net6.0\Services.pdb
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\Services\obj\Debug\net6.0\ref\Services.dll

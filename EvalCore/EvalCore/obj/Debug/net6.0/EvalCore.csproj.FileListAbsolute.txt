@@ -1,0 +1,12 @@
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\EvalCore\bin\Debug\net6.0\EvalCore.deps.json
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\EvalCore\bin\Debug\net6.0\EvalCore.dll
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\EvalCore\bin\Debug\net6.0\EvalCore.pdb
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\EvalCore\obj\Debug\net6.0\EvalCore.csproj.AssemblyReference.cache
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\EvalCore\obj\Debug\net6.0\EvalCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\EvalCore\obj\Debug\net6.0\EvalCore.AssemblyInfoInputs.cache
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\EvalCore\obj\Debug\net6.0\EvalCore.AssemblyInfo.cs
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\EvalCore\obj\Debug\net6.0\EvalCore.csproj.CoreCompileInputs.cache
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\EvalCore\obj\Debug\net6.0\EvalCore.dll
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\EvalCore\obj\Debug\net6.0\refint\EvalCore.dll
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\EvalCore\obj\Debug\net6.0\EvalCore.pdb
+D:\Desktop\Clean-Architecture-.NET-main\MusicStoreAdministrator\EvalCore\obj\Debug\net6.0\ref\EvalCore.dll
